@@ -62,7 +62,7 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,fastapi" />
+<img src="https://skillicons.dev/icons?i=laravel,tauri,nodejs,fastapi" />
 </td>
 
 <td align="center">
