@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7D000&center=true&vCenter=true&width=800&lines=Backend Developer;AI Explorer;Cloud Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7D000&center=true&vCenter=true&width=800&lines=Backend+Developer;AI+Explorer;Cloud" alt="Typing SVG" />
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FACC15,100:F59E0B&height=120&section=header"/>
 <p align="center">
