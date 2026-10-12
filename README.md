@@ -107,7 +107,7 @@
 <br>
 
 
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=erablackbalier&theme=yeblu&hide_border=true&layout=compact"/>
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=erablackbalier&theme=yeblu&hide_border=true&layout=compact&exclude_repo=ProyectoFinal,Maes3-mobile,Allnalyzer-open-core,TheBridgelyApp,goodfellas-landing,CQCIAS-test"/>
 
 <br><br>
 
